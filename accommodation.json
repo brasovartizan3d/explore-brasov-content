@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "cucu_residence",
+    "nameRo": "Brașov Cucu Residence",
+    "nameEn": "Brașov Cucu Residence",
+    "rating": 8.9,
+    "distance": "2.3 km de centru",
+    "price": "200RON",
+    "phone": "0742508630",
+    "addressRo": "Strada Oașului 6, Brașov 500209",
+    "addressEn": "No. 6, Oașului Street, Brașov",
+    "descriptionRo": "Cucu Residence combină liniștea unei zone rezidențiale cu acces facil către punctele de interes ale orașului — Piața Sfatului se află la aproximativ 2,7 km.",
+    "descriptionEn": "Cucu Residence combines the quiet of a residential area with easy access to Brașov’s main attractions — Council Square is about 2.7 km away.",
+    "imageThumb": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/accommodation_cucu_thumb.webp",
+    "images": [
+      "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/cucu_1.webp",
+      "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/cucu_2.webp"
+    ]
+  }
+]
