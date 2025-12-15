@@ -1,0 +1,34 @@
+{
+  "places": [
+    {
+      "nameRo": "La Ceaun",
+      "nameEn": "La Ceaun",
+      "categoryRo": "Restaurant",
+      "categoryEn": "Restaurant",
+      "addressRo": "Str. Michael Weiss, Brașov",
+      "addressEn": "Michael Weiss St, Brasov",
+      "descriptionRo": "Mâncare tradițională românească.",
+      "descriptionEn": "Traditional Romanian food.",
+      "phone": "+40 7xx xxx xxx",
+      "website": "https://example.com",
+      "priceRange": "$$",
+      "rating": 4.6,
+      "image": "https://example.com/image.jpg"
+    },
+    {
+      "nameRo": "Tipografia",
+      "nameEn": "Tipografia",
+      "categoryRo": "Cafenea",
+      "categoryEn": "Coffee shop",
+      "addressRo": "Centrul vechi, Brașov",
+      "addressEn": "Old Town, Brasov",
+      "descriptionRo": "Cafea de specialitate și deserturi.",
+      "descriptionEn": "Specialty coffee and desserts.",
+      "phone": "",
+      "website": "",
+      "priceRange": "$$",
+      "rating": 4.7,
+      "image": ""
+    }
+  ]
+}
