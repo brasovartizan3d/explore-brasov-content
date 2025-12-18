@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "cardTitleRo": "Recomandări în perioada aceasta",
+  "cardTitleEn": "Recommendations for this period",
+  "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_cover.jpg",
+  "items": [
+    {
+      "titleRo": "Târgul de Crăciun",
+      "titleEn": "Christmas Market",
+      "shortRo": "Piața Sfatului + plimbare în centru.",
+      "shortEn": "Council Square + downtown walk.",
+      "detailsRo": "Detalii complete aici…",
+      "detailsEn": "Full details here…",
+      "imageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_1.jpg",
+      "link": "https://wa.me/40770666484"
+    }
+  ]
+}
