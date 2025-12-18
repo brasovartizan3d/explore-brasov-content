@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "itemsRo": [
+    "🎄 Program special în centru în weekend.",
+    "🚧 Atenție: lucrări pe strada X."
+  ],
+  "itemsEn": [
+    "🎄 Special weekend schedule downtown.",
+    "🚧 Heads up: road works on street X."
+  ],
+  "separator": "   •   ",
+  "speedPxPerSec": 80
+}
