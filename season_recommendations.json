@@ -2,83 +2,53 @@
   "enabled": true,
   "cardTitleRo": "Recomandări în perioada aceasta",
   "cardTitleEn": "Recommendations for this period",
-  "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/reco_01_cover.webp",
+  "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_cover.webp",
   "items": [
     {
       "id": "reco_01",
-      "titleRo": "Restaurant cu vedere (exemplu)",
-      "titleEn": "View restaurant (example)",
-      "shortRo": "Cină cu panoramă + rezervare rapidă.",
-      "shortEn": "Dinner with a view + quick booking.",
-      "detailsRo": "Descriere detaliată: ce îl face special, program, recomandări, cum ajungi etc.",
-      "detailsEn": "Detailed description: what makes it special, schedule, tips, how to get there etc.",
+      "titleRo": "Târgul de Crăciun Brașov",
+      "titleEn": "Brasov Christmas Market",
+      "shortRo": "Eveniment de sezon în Piața Sfatului",
+      "shortEn": "Seasonal event in Council Square",
+      "detailsRo": "Târgul de Crăciun din Brașov oferă produse tradiționale, vin fiert, muzică și activități pentru copii.",
+      "detailsEn": "Brasov Christmas Market offers traditional products, mulled wine, music and activities for children.",
       "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/reco_01_1.webp",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/reco_01_2.webp",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_01_3.jpg"
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_2.webp",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_3.webp"
       ],
-      "phone": "+40770000001",
-      "whatsapp": "+40770000001"
+      "phone": "+40770111222",
+      "whatsapp": "+40770111222"
     },
+
     {
       "id": "reco_02",
-      "titleRo": "Cazare centrală (exemplu)",
-      "titleEn": "Central stay (example)",
-      "shortRo": "Aproape de centru, ideal pentru 2 persoane.",
-      "shortEn": "Close to downtown, ideal for 2 people.",
-      "detailsRo": "Descriere detaliată: check-in, parcare, facilități, recomandări.",
-      "detailsEn": "Detailed description: check-in, parking, amenities, tips.",
+      "titleRo": "Plimbare pe Tâmpa",
+      "titleEn": "Mount Tampa Walk",
+      "shortRo": "Priveliște spectaculoasă asupra orașului",
+      "shortEn": "Spectacular city view",
+      "detailsRo": "O plimbare ușoară până pe Tâmpa, ideală în zilele senine.",
+      "detailsEn": "An easy walk to Mount Tampa, ideal on clear days.",
       "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_02_1.jpg",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_02_2.jpg"
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_02_1.webp"
       ],
-      "phone": "+40770000002",
-      "whatsapp": "+40770000002"
+      "phone": null,
+      "whatsapp": null
     },
+
     {
       "id": "reco_03",
-      "titleRo": "Experiență locală (exemplu)",
-      "titleEn": "Local experience (example)",
-      "shortRo": "Tur ghidat / activitate pentru grupuri mici.",
-      "shortEn": "Guided tour / activity for small groups.",
-      "detailsRo": "Descriere detaliată: durată, ce include, ce să aduci, preț orientativ.",
-      "detailsEn": "Detailed description: duration, what’s included, what to bring, estimated price.",
+      "titleRo": "Restaurant tradițional",
+      "titleEn": "Traditional Restaurant",
+      "shortRo": "Mâncare românească autentică",
+      "shortEn": "Authentic Romanian food",
+      "detailsRo": "Restaurant cu preparate tradiționale românești, perfect pentru sezonul rece.",
+      "detailsEn": "Restaurant with traditional Romanian dishes, perfect for cold season.",
       "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_03_1.jpg",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_03_2.jpg",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_03_3.jpg"
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_03_1.webp"
       ],
-      "phone": "+40770000003",
-      "whatsapp": "+40770000003"
-    },
-    {
-      "id": "reco_04",
-      "titleRo": "Cafenea specială (exemplu)",
-      "titleEn": "Specialty coffee (example)",
-      "shortRo": "Cafea bună + desert + atmosferă.",
-      "shortEn": "Great coffee + dessert + vibe.",
-      "detailsRo": "Descriere detaliată: recomandări din meniu, ore, locație.",
-      "detailsEn": "Detailed description: menu highlights, hours, location.",
-      "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_04_1.jpg"
-      ],
-      "phone": "+40770000004",
-      "whatsapp": "+40770000004"
-    },
-    {
-      "id": "reco_05",
-      "titleRo": "Loc de vizitat rapid (exemplu)",
-      "titleEn": "Quick must-see spot (example)",
-      "shortRo": "Perfect pentru 1–2 ore, ușor de ajuns.",
-      "shortEn": "Perfect for 1–2 hours, easy to reach.",
-      "detailsRo": "Descriere detaliată: când e cel mai bine, traseu, ce să vezi.",
-      "detailsEn": "Detailed description: best time to go, route, what to see.",
-      "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_05_1.jpg",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_05_2.jpg"
-      ],
-      "phone": "+40770000005",
-      "whatsapp": "+40770000005"
+      "phone": "+40770222333",
+      "whatsapp": "+40770222333"
     }
   ]
 }
