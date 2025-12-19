@@ -5,14 +5,80 @@
   "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_cover.jpg",
   "items": [
     {
-      "titleRo": "Târgul de Crăciun",
-      "titleEn": "Christmas Market",
-      "shortRo": "Piața Sfatului + plimbare în centru.",
-      "shortEn": "Council Square + downtown walk.",
-      "detailsRo": "Detalii complete aici…",
-      "detailsEn": "Full details here…",
-      "imageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_1.jpg",
-      "link": "https://wa.me/40770666484"
+      "id": "reco_01",
+      "titleRo": "Restaurant cu vedere (exemplu)",
+      "titleEn": "View restaurant (example)",
+      "shortRo": "Cină cu panoramă + rezervare rapidă.",
+      "shortEn": "Dinner with a view + quick booking.",
+      "detailsRo": "Descriere detaliată: ce îl face special, program, recomandări, cum ajungi etc.",
+      "detailsEn": "Detailed description: what makes it special, schedule, tips, how to get there etc.",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_01_1.jpg",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_01_2.jpg",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_01_3.jpg"
+      ],
+      "phone": "+40770000001",
+      "whatsapp": "+40770000001"
+    },
+    {
+      "id": "reco_02",
+      "titleRo": "Cazare centrală (exemplu)",
+      "titleEn": "Central stay (example)",
+      "shortRo": "Aproape de centru, ideal pentru 2 persoane.",
+      "shortEn": "Close to downtown, ideal for 2 people.",
+      "detailsRo": "Descriere detaliată: check-in, parcare, facilități, recomandări.",
+      "detailsEn": "Detailed description: check-in, parking, amenities, tips.",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_02_1.jpg",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_02_2.jpg"
+      ],
+      "phone": "+40770000002",
+      "whatsapp": "+40770000002"
+    },
+    {
+      "id": "reco_03",
+      "titleRo": "Experiență locală (exemplu)",
+      "titleEn": "Local experience (example)",
+      "shortRo": "Tur ghidat / activitate pentru grupuri mici.",
+      "shortEn": "Guided tour / activity for small groups.",
+      "detailsRo": "Descriere detaliată: durată, ce include, ce să aduci, preț orientativ.",
+      "detailsEn": "Detailed description: duration, what’s included, what to bring, estimated price.",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_03_1.jpg",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_03_2.jpg",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_03_3.jpg"
+      ],
+      "phone": "+40770000003",
+      "whatsapp": "+40770000003"
+    },
+    {
+      "id": "reco_04",
+      "titleRo": "Cafenea specială (exemplu)",
+      "titleEn": "Specialty coffee (example)",
+      "shortRo": "Cafea bună + desert + atmosferă.",
+      "shortEn": "Great coffee + dessert + vibe.",
+      "detailsRo": "Descriere detaliată: recomandări din meniu, ore, locație.",
+      "detailsEn": "Detailed description: menu highlights, hours, location.",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_04_1.jpg"
+      ],
+      "phone": "+40770000004",
+      "whatsapp": "+40770000004"
+    },
+    {
+      "id": "reco_05",
+      "titleRo": "Loc de vizitat rapid (exemplu)",
+      "titleEn": "Quick must-see spot (example)",
+      "shortRo": "Perfect pentru 1–2 ore, ușor de ajuns.",
+      "shortEn": "Perfect for 1–2 hours, easy to reach.",
+      "detailsRo": "Descriere detaliată: când e cel mai bine, traseu, ce să vezi.",
+      "detailsEn": "Detailed description: best time to go, route, what to see.",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_05_1.jpg",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_05_2.jpg"
+      ],
+      "phone": "+40770000005",
+      "whatsapp": "+40770000005"
     }
   ]
 }
