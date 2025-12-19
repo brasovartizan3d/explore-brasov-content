@@ -2,7 +2,7 @@
   "enabled": true,
   "cardTitleRo": "Recomandări în perioada aceasta",
   "cardTitleEn": "Recommendations for this period",
-  "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_cover.jpg",
+  "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/reco_01_cover.webp",
   "items": [
     {
       "id": "reco_01",
@@ -13,8 +13,8 @@
       "detailsRo": "Descriere detaliată: ce îl face special, program, recomandări, cum ajungi etc.",
       "detailsEn": "Detailed description: what makes it special, schedule, tips, how to get there etc.",
       "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_01_1.jpg",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_01_2.jpg",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/reco_01_1.webp",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/reco_01_2.webp",
         "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/images/reco_01_3.jpg"
       ],
       "phone": "+40770000001",
