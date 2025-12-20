@@ -31,8 +31,8 @@
       "images": [
         "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
       ],
-      "phone": null,
-      "whatsapp": null
+      "phone": "+4077xxxxxxx",
+      "whatsapp": "+4077xxxxxxx"
     },
     {
       "id": "reco_03",
@@ -47,6 +47,34 @@
       ],
       "phone": "+40770222333",
       "whatsapp": "+40770222333"
+    },
+    {
+      "id": "reco_04",
+      "titleRo": "Titlu RO 4",
+      "titleEn": "Title EN 4",
+      "shortRo": "Descriere scurtă RO 4",
+      "shortEn": "Short EN 4",
+      "detailsRo": "Detalii RO 4",
+      "detailsEn": "Details EN 4",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
+      ],
+      "phone": "+4077xxxxxxx",
+      "whatsapp": "+4077xxxxxxx"
+    },
+    {
+      "id": "reco_05",
+      "titleRo": "Titlu RO 5",
+      "titleEn": "Title EN 5",
+      "shortRo": "Descriere scurtă RO 5",
+      "shortEn": "Short EN 5",
+      "detailsRo": "Detalii RO 5",
+      "detailsEn": "Details EN 5",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
+      ],
+      "phone": "+4077xxxxxxx",
+      "whatsapp": "+4077xxxxxxx"
     }
   ]
 }
