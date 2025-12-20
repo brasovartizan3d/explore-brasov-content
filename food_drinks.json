@@ -46,10 +46,10 @@
       "image": ""
     },
     {
-      "nameRo": "test ro",
-      "nameEn": "test en",
-      "categoryRo": "test",
-      "categoryEn": "test",
+      "nameRo": "test ro1",
+      "nameEn": "test en1",
+      "categoryRo": "test1",
+      "categoryEn": "test1",
       "addressRo": "Centrul vechi, Brașov",
       "addressEn": "Old Town, Brasov",
       "descriptionRo": "Cafea de specialitate și deserturi.",
@@ -61,10 +61,10 @@
       "image": ""
     },
     {
-      "nameRo": "test ro",
-      "nameEn": "test en",
-      "categoryRo": "test",
-      "categoryEn": "test",
+      "nameRo": "test ro2",
+      "nameEn": "test en2",
+      "categoryRo": "test2",
+      "categoryEn": "test2",
       "addressRo": "Centrul vechi, Brașov",
       "addressEn": "Old Town, Brasov",
       "descriptionRo": "Cafea de specialitate și deserturi.",
