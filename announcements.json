@@ -1,12 +1,10 @@
 {
   "enabled": true,
   "itemsRo": [
-    "🎄Program special în centru în weekend🎄vizitați căsuțele târgului de Crăciun din Piața Sfatului",
-    "🚧Atenție: pericol de voie bună :)"
+    "🎄Program special în centru în weekend🎄vizitați căsuțele târgului de Crăciun din Piața Sfatului"
   ],
   "itemsEn": [
-    "🎄Special weekend schedule downtown🎄visit the Christmas fare in Piața Sfatului",
-    "🚧Heads up: danger for joy :)"
+    "🎄Special weekend schedule downtown🎄visit the Christmas fare in Piața Sfatului"
   ],
   "separator": "   •   ",
   "speedPxPerSec": 200
