@@ -2,7 +2,7 @@
   "enabled": true,
   "cardTitleRo": "Recomandări în perioada aceasta",
   "cardTitleEn": "Recommendations for this period",
-  "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_cover.webp",
+  "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/Brasov%20-%20Targ%20Craciun.webp",
   "items": [
     {
       "id": "reco_01",
