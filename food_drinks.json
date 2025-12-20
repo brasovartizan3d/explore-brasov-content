@@ -46,19 +46,19 @@
       "image": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/la%20ceaun%20piata%20sfatului.webp"
     },
     {
-      "nameRo": "Sergiana",
-      "nameEn": "Sergiana",
-      "categoryRo": "Restaurant",
-      "categoryEn": "Restaurant",
-      "addressRo": "Mureşenilor, nr. 28",
-      "addressEn": "28, Mureşenilor St.",
-      "descriptionRo": "Mâncare tradițională românească.",
-      "descriptionEn": "Traditional Romanian food.",
-      "phone": "+40 723 294 923",
-      "website": "https://sergiana.ro/ro/restaurante/restaurant-sergiana",
+      "nameRo": "curand",
+      "nameEn": "soon",
+      "categoryRo": "curand",
+      "categoryEn": "soon",
+      "addressRo": "curand",
+      "addressEn": "soon",
+      "descriptionRo": "curand",
+      "descriptionEn": "soon",
+      "phone": "",
+      "website": "",
       "priceRange": "$$",
-      "rating": 4.6,
-      "image": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/sergiana.webp"
+      "rating": 4.7,
+      "image": ""
     },
     {
       "nameRo": "curand",
