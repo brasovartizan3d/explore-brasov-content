@@ -1,12 +1,12 @@
 {
   "enabled": true,
   "itemsRo": [
-    "🎄 Program special în centru în weekend.",
-    "🚧 Atenție: lucrări pe strada X."
+    "🎄 Program special în centru în weekend. Vizitați căsuțele târgului de Crăciun din Piața Sfatului",
+    "🚧 Atenție: pericol de voie bună :)"
   ],
   "itemsEn": [
-    "🎄 Special weekend schedule downtown.",
-    "🚧 Heads up: road works on street X."
+    "🎄 Special weekend schedule downtown. Visit the Christmas fare in Piața Sfatului",
+    "🚧 Heads up: danger for joy :)"
   ],
   "separator": "   •   ",
   "speedPxPerSec": 80
