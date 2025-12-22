@@ -50,8 +50,8 @@
     },
     {
       "id": "reco_04",
-      "titleRo": "Titlu RO 4",
-      "titleEn": "Title EN 4",
+      "titleRo": "Universul trenuletelor",
+      "titleEn": "The world of toy trains",
       "shortRo": "Descriere scurtă RO 4",
       "shortEn": "Short EN 4",
       "detailsRo": "Detalii RO 4",
@@ -59,8 +59,8 @@
       "images": [
         "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
       ],
-      "phone": "",
-      "whatsapp": ""
+      "phone": "+40 743 008 022",
+      "whatsapp": "+40 743 008 022"
     },
     {
       "id": "reco_05",
