@@ -1,0 +1,80 @@
+{
+  "enabled": true,
+  "cardTitleRo": "Recomandări - zilele aceastea",
+  "cardTitleEn": "Recommendations - this period",
+  "cardImageUrl": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/Brasov%20-%20Targ%20Craciun.webp",
+  "items": [
+    {
+      "id": "reco_01",
+      "titleRo": "Târgul de Crăciun Brașov",
+      "titleEn": "Brasov Christmas Market",
+      "shortRo": "Eveniment de sezon în Piața Sfatului",
+      "shortEn": "Seasonal event in Council Square",
+      "detailsRo": "Târgul de Crăciun din Brașov oferă produse tradiționale, vin fiert, muzică și activități pentru copii.",
+      "detailsEn": "Brasov Christmas Market offers traditional products, mulled wine, music and activities for children.",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_2.webp",
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_3.webp"
+      ],
+      "phone": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "reco_02",
+      "titleRo": "Plimbare pe Tâmpa",
+      "titleEn": "Mount Tampa Walk",
+      "shortRo": "Priveliște spectaculoasă asupra orașului",
+      "shortEn": "Spectacular city view",
+      "detailsRo": "O plimbare ușoară până pe Tâmpa, ideală în zilele senine.",
+      "detailsEn": "An easy walk to Mount Tampa, ideal on clear days.",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
+      ],
+      "phone": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "reco_03",
+      "titleRo": "Restaurant tradițional",
+      "titleEn": "Traditional Restaurant",
+      "shortRo": "Mâncare românească autentică",
+      "shortEn": "Authentic Romanian food",
+      "detailsRo": "Restaurant cu preparate tradiționale românești, perfect pentru sezonul rece.",
+      "detailsEn": "Restaurant with traditional Romanian dishes, perfect for cold season.",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
+      ],
+      "phone": "",
+      "whatsapp": ""
+    },
+    {
+      "id": "reco_04",
+      "titleRo": "Universul trenuletelor",
+      "titleEn": "The world of toy trains",
+      "shortRo": "Descriere scurtă RO 4",
+      "shortEn": "Short EN 4",
+      "detailsRo": "Detalii RO 4",
+      "detailsEn": "Details EN 4",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
+      ],
+      "phone": "+40 743 008 022",
+      "whatsapp": "+40 743 008 022"
+    },
+    {
+      "id": "reco_05",
+      "titleRo": "Titlu RO 5",
+      "titleEn": "Title EN 5",
+      "shortRo": "Descriere scurtă RO 5",
+      "shortEn": "Short EN 5",
+      "detailsRo": "Detalii RO 5",
+      "detailsEn": "Details EN 5",
+      "images": [
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
+      ],
+      "phone": "",
+      "whatsapp": ""
+    }
+  ]
+}
