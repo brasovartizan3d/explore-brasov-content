@@ -50,17 +50,14 @@
     },
     {
       "id": "reco_04",
-      "titleRo": "Universul trenuletelor",
-      "titleEn": "The world of toy trains",
-      "shortRo": "Expozitie de trenuri in miniatura si diorame ale Brasovului",
-      "shortEn": "Exhibition of miniature trains and dioramas of Brasov",
-      "detailsRo": "Locatie: Strada Republicii 50, Brașov. Expoziția de trenulețe și diorame dedicate Brașovului invită vizitatorii într-o lume spectaculoasă în miniatură, realizată cu atenție la detalii și pasiune pentru modelism. Dioramele redau clădiri emblematice, zone istorice, cartiere moderne și peisaje montane, animate de trenuri care circulă continuu pe trasee complexe. Destinată tuturor vârstelor, expoziția îmbină divertismentul cu valoarea educativă, punând în lumină istoria, arhitectura și identitatea orașului într-un mod captivant.",
-      "detailsEn": "Location: 50 Republicii st., Brașov. The exhibition of miniature trains and dioramas dedicated to Brașov invites visitors to a spectacular miniature world, created with attention to detail and passion for modeling. The dioramas depict emblematic buildings, historical areas, modern neighborhoods and mountain landscapes, animated by trains that continuously circulate on complex routes. Intended for all ages, the exhibition combines entertainment with educational value, highlighting the history, architecture and identity of the city in a captivating way.",
+     "titleRo": "Titlu RO 42",
+      "titleEn": "Title EN 42",
+      "shortRo": "Descriere scurtă RO 42",
+      "shortEn": "Short EN 42",
+      "detailsRo": "Detalii RO 42",
+      "detailsEn": "Details EN 42",
       "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/universul%20trenuletelor%201.webp",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/universul%20trenuletelor%202.webp",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/universul%20trenuletelor%203.webp",
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/universul%20trenuletelor%204.webp"
+        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/Brasov%20-%20Targ%20Craciun.webp"
       ],
       "phone": "+40 743 008 022",
       "whatsapp": "+40 743 008 022"
