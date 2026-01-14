@@ -47,34 +47,6 @@
       ],
       "phone": "",
       "whatsapp": ""
-    },
-    {
-      "id": "reco_04",
-     "titleRo": "Universul trenuletelor",
-      "titleEn": "The world of toy trains",
-      "shortRo": "Expozitie de trenuri",
-      "shortEn": "Exhibition of miniature trains",
-      "detailsRo": "Detalii RO 42",
-      "detailsEn": "Details EN 42",
-      "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/Brasov%20-%20Targ%20Craciun.webp"
-      ],
-      "phone": "+40 743 008 022",
-      "whatsapp": "+40 743 008 022"
-    },
-    {
-      "id": "reco_05",
-      "titleRo": "Titlu RO 5",
-      "titleEn": "Title EN 5",
-      "shortRo": "Descriere scurtă RO 5",
-      "shortEn": "Short EN 5",
-      "detailsRo": "Detalii RO 5",
-      "detailsEn": "Details EN 5",
-      "images": [
-        "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/main/reco_01_1.webp"
-      ],
-      "phone": "",
-      "whatsapp": ""
     }
   ]
 }
