@@ -46,18 +46,18 @@
       "image": "https://raw.githubusercontent.com/brasovartizan3d/explore-brasov-content/refs/heads/main/la%20ceaun%20piata%20sfatului.webp"
     },
     {
-      "nameRo": "curand1+1",
-      "nameEn": "soon1+1",
-      "categoryRo": "in scurt timp soon",
-      "categoryEn": "soon soon",
+      "nameRo": "in scurt timp",
+      "nameEn": "soon",
+      "categoryRo": "in scurt timp",
+      "categoryEn": "soon",
       "addressRo": "in scurt timp",
       "addressEn": "soon",
       "descriptionRo": "in scurt timp",
       "descriptionEn": "soon",
       "phone": "",
       "website": "",
-      "priceRange": "$",
-      "rating": 4.5,
+      "priceRange": "$$",
+      "rating": 4.7,
       "image": ""
     },
     {
