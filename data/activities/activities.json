@@ -1,1 +1,36 @@
-
+{
+  "category": "activities",
+  "version": 1,
+  "places": [
+    {
+      "slug": "test_activity",
+      "name": {
+        "ro": "Activitate test",
+        "en": "Test activity"
+      },
+      "images": [
+        "test.jpg"
+      ],
+      "maps_query": "Brasov",
+      "website": null,
+      "phone": null,
+      "rating": null,
+      "address": {
+        "ro": "Brașov",
+        "en": "Brasov"
+      },
+      "details": {
+        "description": {
+          "ro": "Descriere test.",
+          "en": "Test description."
+        },
+        "ticket_info": {
+          "ro": null,
+          "en": null
+        },
+        "opening_hours": null,
+        "average_visit_minutes": null
+      }
+    }
+  ]
+}
