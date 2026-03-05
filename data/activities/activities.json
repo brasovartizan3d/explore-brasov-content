@@ -1,30 +1,38 @@
 {
-  "slug": "vmax_karting_brasov",
-  "name": {
-    "ro": "VMax Karting Brașov",
-    "en": "VMax Karting Brasov"
-  },
-  "images": [
-    "vmax_karting_1.webp"
-  ],
-  "maps_query": "VMax Karting Brasov",
-  "website": "https://vmaxkarting.ro/brasov/",
-  "phone": "+40 741 186 888",
-  "rating": 9.2,
-  "address": {
-    "ro": "Strada Henri Coandă 2, Hala H14, Brașov 500167",
-    "en": "Henri Coanda Street 2, Hall H14, Brasov 500167"
-  },
-  "details": {
-    "description": {
-      "ro": "Cel mai mare circuit indoor de karting din țară, cu o flotă modernă de karte pentru adulți și copii. O experiență plină de adrenalină, perfectă pentru competiții prietenești.",
-      "en": "The largest indoor karting track in the country, with a modern fleet of karts for adults and children. An adrenaline-fueled experience, perfect for friendly competitions."
-    },
-    "ticket_info": {
-      "ro": "~60 RON/bucata (adult), ~45 RON/bucata (copii). Se recomandă rezervarea.",
-      "en": "~60 RON/ride (adult), ~45 RON/ride (children). Booking is recommended."
-    },
-    "opening_hours": "Luni-Vineri: 14:00–22:00, Sâmbătă-Duminică: 10:00–22:00",
-    "average_visit_minutes": 90
-  }
+  "category": "activities",
+  "version": 1,
+  "places": [
+
+    {
+      "slug": "vmax_karting_brasov",
+      "name": {
+        "ro": "VMax Karting Brașov",
+        "en": "VMax Karting Brasov"
+      },
+      "images": [
+        "vmax_karting_1.webp"
+      ],
+      "maps_query": "VMax Karting Brasov",
+      "website": "https://vmaxkarting.ro/brasov/",
+      "phone": "+40 741 186 888",
+      "rating": 9.2,
+      "address": {
+        "ro": "Strada Henri Coandă 2, Hala H14, Brașov 500167",
+        "en": "Henri Coanda Street 2, Hall H14, Brasov 500167"
+      },
+      "details": {
+        "description": {
+          "ro": "Cel mai mare circuit indoor de karting din țară, cu o flotă modernă de karte pentru adulți și copii. O experiență plină de adrenalină, perfectă pentru competiții prietenești.",
+          "en": "The largest indoor karting track in the country, with a modern fleet of karts for adults and children. An adrenaline-fueled experience, perfect for friendly competitions."
+        },
+        "ticket_info": {
+          "ro": "~60 RON/bucata (adult), ~45 RON/bucata (copii). Se recomandă rezervarea.",
+          "en": "~60 RON/ride (adult), ~45 RON/ride (children). Booking is recommended."
+        },
+        "opening_hours": "Luni-Vineri: 14:00–22:00, Sâmbătă-Duminică: 10:00–22:00",
+        "average_visit_minutes": 90
+      }
+    }
+
+  ]
 }
