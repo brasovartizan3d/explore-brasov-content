@@ -2,7 +2,6 @@
   "category": "activities",
   "version": 1,
   "places": [
-
     {
       "slug": "vmax_karting_brasov",
       "name": {
@@ -33,6 +32,5 @@
         "average_visit_minutes": 90
       }
     }
-
   ]
 }
